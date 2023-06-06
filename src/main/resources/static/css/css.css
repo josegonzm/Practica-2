@@ -1,0 +1,42 @@
+header{
+    background: gray;
+    font: white;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+nav{
+    font-size: 20px;
+    font-style: normal;
+    
+}
+
+h2{
+    font-style: inherit;
+    font-size: 30px;
+}
+
+
+
+aside {
+    width: 10%;
+    height: 200%;
+    padding-right: 10px;
+    float: left;
+    background-color: lightgray
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+
+
+
+
+
